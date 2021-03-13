@@ -1,0 +1,22 @@
+{
+  "name": "participation8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kensley92/Participation8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kensley92/Participation8/issues"
+  },
+  "homepage": "https://github.com/Kensley92/Participation8#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
